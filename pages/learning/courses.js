@@ -25,7 +25,7 @@ export default function Home() {
           <div class="flex flex-row">
             <div class="blog-post pr-5">
               <div>
-                <Link href="#">
+                <Link href="/courses/courseCurriculum">
                   <Image src={blogImage} alt="image" />
                 </Link>
               </div>
@@ -44,7 +44,7 @@ export default function Home() {
             </div>
             <div class="blog-post pr-5">
               <div>
-                <Link href="#">
+                <Link href="/courses/courseCurriculum">
                   <Image src={blogImage} alt="image" />
                 </Link>
               </div>
@@ -63,7 +63,7 @@ export default function Home() {
             </div>
             <div class="blog-post pr-5">
               <div>
-                <Link href="#">
+                <Link href="/courses/courseCurriculum">
                   <Image src={blogImage} alt="image" />
                 </Link>
               </div>
@@ -82,7 +82,7 @@ export default function Home() {
             </div>
             <div class="blog-post pr-5">
               <div>
-                <Link href="#">
+                <Link href="/courses/courseCurriculum">
                   <Image src={blogImage} alt="image" />
                 </Link>
               </div>
@@ -104,7 +104,7 @@ export default function Home() {
           <div class="flex flex-row pt-5">
             <div class="blog-post pr-5">
               <div>
-                <Link href="#">
+                <Link href="/courses/courseCurriculum">
                   <Image src={blogImage} alt="image" />
                 </Link>
               </div>
@@ -123,7 +123,7 @@ export default function Home() {
             </div>
             <div class="blog-post pr-5">
               <div>
-                <Link href="#">
+                <Link href="/courses/courseCurriculum">
                   <Image src={blogImage} alt="image" />
                 </Link>
               </div>
@@ -142,7 +142,7 @@ export default function Home() {
             </div>
             <div class="blog-post pr-5">
               <div>
-                <Link href="#">
+                <Link href="/courses/courseCurriculum">
                   <Image src={blogImage} alt="image" />
                 </Link>
               </div>
@@ -161,7 +161,7 @@ export default function Home() {
             </div>
             <div class="blog-post pr-5">
               <div>
-                <Link href="#">
+                <Link href="/courses/courseCurriculum">
                   <Image src={blogImage} alt="image" />
                 </Link>
               </div>

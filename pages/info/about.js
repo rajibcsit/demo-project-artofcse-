@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 function About() {
   return (
     <div>
@@ -27,9 +29,15 @@ function About() {
                 including some skilled trainers and programmers which have been committed to
                 heightening programming skills together through exchanging knowledge. <br /> <br />
                 Artofcse always welcomes your idea, opinion and contribution to make this community
-                better. Contact us <br /> <br />
+                better.
+                <Link href="/info/contact" class="text-cyan-500 hover:underline">
+                  Contact us
+                </Link>
+                <br /> <br />
                 Find our course to take your programming and development skills to the next level.
-                Our Courses
+                <Link href="/learning/courses" class="text-cyan-500 hover:underline">
+                  Our Courses
+                </Link>
               </p>
             </div>
           </div>

@@ -16,7 +16,7 @@ function Footer() {
                   About
                 </li>
               </Link>
-              <Link href="">
+              <Link href="/info/contact">
                 <li class="mx-4 my-6 md:my-0 text-base text-white hover:text-lime-500 duration-500">
                   Contact
                 </li>
