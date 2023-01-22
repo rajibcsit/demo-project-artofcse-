@@ -38,7 +38,7 @@ function courseCurriculum() {
                 </Link>
               </div>
               <div class="course-subTitle pt-3">
-                <Link href="#">
+                <Link href="/courses/video">
                   <p class="text-xs hover:bg-cyan-500 duration-500">
                     1 PHP OOP Design Patterns and Principles Course Introduction
                   </p>
